@@ -41,4 +41,5 @@ Delete Personnel
 
 ![picture](screenshots/deleteperson.jpg)
 
-Apart from these, the admin can create new titles and personnel units. My report on the whole system can be found [here](https://drive.google.com/open?id=0B5i7VpQV6B9VMi1lbTQ2aFMwTWc)
+Apart from these, the admin can create new titles and personnel units. The written details of the system can be found in the "description of the work done" section
+of my report [here](https://drive.google.com/open?id=0B5i7VpQV6B9VMi1lbTQ2aFMwTWc).
