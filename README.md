@@ -6,6 +6,7 @@ I have used Xampp to run it locally and you can find the database schema(and may
 
 Here are some screenshots:
 
-The login page
+Login Page
+------
 
 ![picture](screenshots/login.jpg)
