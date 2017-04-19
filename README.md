@@ -10,3 +10,35 @@ Login Page
 ------
 
 ![picture](screenshots/login.jpg)
+
+
+Admin Main Page
+------
+
+![picture](screenshots/adminMain.jpg)
+
+
+Non-Admin Main Page
+------
+
+![picture](screenshots/nonAdmin.jpg)
+
+
+Add Personnel
+------
+
+![picture](screenshots/addperson.jpg)
+
+
+Edit Personnel
+------
+
+![picture](screenshots/editperson.jpg)
+
+
+Delete Personnel
+------
+
+![picture](screenshots/deleteperson.jpg)
+
+Apart from these, the admin can create new titles and personnel units. My report on the whole system can be found [here](https://drive.google.com/open?id=0B5i7VpQV6B9VMi1lbTQ2aFMwTWc)
